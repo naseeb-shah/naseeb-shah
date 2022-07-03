@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm  Naseeb Khan</h1>
 <h3 align="center">An Aspiring full stack web developer from Haryana, India</h3>
 
-  ![image](https://cdn0.iconfinder.com/data/icons/bitcoin-cryptocurrency-lavender-vol-2-1/512/cypherpunk-512.png)
+<div ><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" width="100%" height="300px"></div>
+                                                                                  
 #
 
 <h2 align="center">About Me :raised_hand:</h2>
