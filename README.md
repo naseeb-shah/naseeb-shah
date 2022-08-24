@@ -5,22 +5,12 @@
                                                                                   
 #
 
-<h2 align="center">About Me :raised_hand:</h2>
 
-
- &nbsp;&nbsp;&nbsp;I am passionate Full Stack Web Developer who focuses on writing clean
-and user-friendly applications.
-<br/>
-&nbsp;&nbsp;&nbsp;I love designing websites and coding.
-<br/>
-&nbsp;&nbsp;&nbsp;I'm skilled at MERN based web app development, alongside upskilling my data structure and algorithms knowledge.
-<br/>
-
-
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio: https:// -->
-
-
-
+# 💫About Me 
+•🌱 I’m currently learning - MERN Stack <br>
+• 📫 How to reach me -  lineo3551@gmail.com <br>
+• 👨‍💻 All of my projects are available at - [PORTFOLIO](https://naseeb-shah.github.io/Portfolio-/) <br>
+• 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1Fi2v4oEqE8U4QDsU3OErja4LI-8Gj7Zk/view)
 
 
 
