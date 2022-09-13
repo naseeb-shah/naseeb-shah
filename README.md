@@ -10,7 +10,7 @@
 •🌱 I’m currently learning - MERN Stack <br>
 • 📫 How to reach me -  lineo3551@gmail.com <br>
 • 👨‍💻 All of my projects are available at - [PORTFOLIO](https://naseeb-shah.github.io/Portfolio-/) <br>
-• 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1Fi2v4oEqE8U4QDsU3OErja4LI-8Gj7Zk/view)
+• 📄 Know about my experiences - [RESUME](https://drive.google.com/drive/folders/1gHae1Z2jur8aRwpRaVo2a5TR8xCThXCe)
 
 
 
