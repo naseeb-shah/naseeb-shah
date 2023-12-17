@@ -44,4 +44,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SanjanaSinghh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=naseeb-shah&icon=0&color=0)](https://visitcount.itsvg.in)
