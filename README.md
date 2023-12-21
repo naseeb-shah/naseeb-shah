@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Naseeb Khan</h1>
 <h3 align="center">Full stack web developer from Haryana, India</h3>
+<p aling="center">Empower your code with purpose, for in the realm of full-stack development, the truest satisfaction lies not just in crafting lines of logic, but in the art of solving real-world problems. As a developer, you are not merely a coder; you are an architect of solutions, a creator of impact. Let each line of code be a testament to your commitment to making a meaningful difference in the world</p>
 
 <div ><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" width="100%" height="300px"></div>
                                                                                   
