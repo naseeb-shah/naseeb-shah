@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Naseeb Khan</h1>
-<h3 align="center">An Aspiring full stack web developer from Haryana, India</h3>
+<h3 align="center">Full stack web developer from Haryana, India</h3>
 
 <div ><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" width="100%" height="300px"></div>
                                                                                   
