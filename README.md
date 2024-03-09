@@ -10,7 +10,7 @@
 # 💫About Me 
 •🚀 Leveling up with MERN Stack mastery! With a solid year of full-stack experience under my belt, I'm now diving deeper into the MERN Stack, honing my skills to engineer even more robust and impactful solutions. The journey continues, and the possibilities are limitless! 🌐💻 <br>
 • 📫 How to reach me -  lineo3551@gmail.com <br>
-• 👨‍💻 All of my projects are available at - [PORTFOLIO](https://naseeb-shah.github.io/Portfolio-/) <br>
+• 👨‍💻 All of my projects are available at - [PORTFOLIO](https://port-shah.vercel.app/) <br>
 • 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1h2a8ZT9GKMc2XuEetTgfebaOKKzlBLmG/view)
 
 
